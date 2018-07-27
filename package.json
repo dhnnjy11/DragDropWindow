@@ -1,0 +1,16 @@
+{
+  "name": "dragdropwindow",
+  "version": "1.0.0",
+  "description": "this is project to upload images using browse button and drop funtionality",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dhananjay Singh",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.3.1",
+    "require": "^2.4.20"
+  }
+}
